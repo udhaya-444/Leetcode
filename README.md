@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [2048-build-array-from-permutation](https://github.com/udhaya-444/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/udhaya-444/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Two Pointers
 |  |
@@ -34,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/udhaya-444/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+## Simulation
+|  |
+| ------- |
+| [2048-build-array-from-permutation](https://github.com/udhaya-444/Leetcode/tree/master/2048-build-array-from-permutation) |
 <!---LeetCode Topics End-->
