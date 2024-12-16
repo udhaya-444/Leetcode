@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/udhaya-444/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/udhaya-444/Leetcode/tree/master/0027-remove-element) |
+| [1019-squares-of-a-sorted-array](https://github.com/udhaya-444/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2048-build-array-from-permutation](https://github.com/udhaya-444/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/udhaya-444/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/udhaya-444/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/udhaya-444/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/udhaya-444/Leetcode/tree/master/0027-remove-element) |
+| [1019-squares-of-a-sorted-array](https://github.com/udhaya-444/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/udhaya-444/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/udhaya-444/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1019-squares-of-a-sorted-array](https://github.com/udhaya-444/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/udhaya-444/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Simulation
 |  |
