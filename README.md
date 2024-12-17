@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/udhaya-444/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/udhaya-444/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Dynamic Programming
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/udhaya-444/Leetcode/tree/master/0042-trapping-rain-water) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/udhaya-444/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
