@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/udhaya-444/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/udhaya-444/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2825-minimize-string-length](https://github.com/udhaya-444/Leetcode/tree/master/2825-minimize-string-length) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2442-number-of-arithmetic-triplets](https://github.com/udhaya-444/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
+| [2825-minimize-string-length](https://github.com/udhaya-444/Leetcode/tree/master/2825-minimize-string-length) |
 ## Enumeration
 |  |
 | ------- |
