@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/udhaya-444/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/udhaya-444/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/udhaya-444/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/udhaya-444/Leetcode/tree/master/0342-power-of-four) |
@@ -91,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/udhaya-444/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2195-time-needed-to-buy-tickets](https://github.com/udhaya-444/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/udhaya-444/Leetcode/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
