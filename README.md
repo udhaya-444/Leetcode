@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/udhaya-444/Leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/udhaya-444/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/udhaya-444/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/udhaya-444/Leetcode/tree/master/0342-power-of-four) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/udhaya-444/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/udhaya-444/Leetcode/tree/master/0070-climbing-stairs) |
 ## Stack
 |  |
 | ------- |
@@ -119,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/udhaya-444/Leetcode/tree/master/0680-valid-palindrome-ii) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/udhaya-444/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
