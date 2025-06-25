@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/udhaya-444/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/udhaya-444/Leetcode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/udhaya-444/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0139-word-break](https://github.com/udhaya-444/Leetcode/tree/master/0139-word-break) |
 | [1019-squares-of-a-sorted-array](https://github.com/udhaya-444/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/udhaya-444/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2048-build-array-from-permutation](https://github.com/udhaya-444/Leetcode/tree/master/2048-build-array-from-permutation) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/udhaya-444/Leetcode/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/udhaya-444/Leetcode/tree/master/0139-word-break) |
 | [0680-valid-palindrome-ii](https://github.com/udhaya-444/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/udhaya-444/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/udhaya-444/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/udhaya-444/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/udhaya-444/Leetcode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/udhaya-444/Leetcode/tree/master/0139-word-break) |
 ## Stack
 |  |
 | ------- |
@@ -92,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/udhaya-444/Leetcode/tree/master/0001-two-sum) |
+| [0139-word-break](https://github.com/udhaya-444/Leetcode/tree/master/0139-word-break) |
 | [0160-intersection-of-two-linked-lists](https://github.com/udhaya-444/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [2442-number-of-arithmetic-triplets](https://github.com/udhaya-444/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2825-minimize-string-length](https://github.com/udhaya-444/Leetcode/tree/master/2825-minimize-string-length) |
@@ -125,4 +129,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/udhaya-444/Leetcode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/udhaya-444/Leetcode/tree/master/0139-word-break) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/udhaya-444/Leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
