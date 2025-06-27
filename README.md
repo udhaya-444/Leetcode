@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/udhaya-444/Leetcode/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/udhaya-444/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/udhaya-444/Leetcode/tree/master/0342-power-of-four) |
 ## Recursion
@@ -136,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/udhaya-444/Leetcode/tree/master/0139-word-break) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/udhaya-444/Leetcode/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
