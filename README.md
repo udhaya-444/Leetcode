@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/udhaya-444/Leetcode/tree/master/0139-word-break) |
 | [0680-valid-palindrome-ii](https://github.com/udhaya-444/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/udhaya-444/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1904-second-largest-digit-in-a-string](https://github.com/udhaya-444/Leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/udhaya-444/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2825-minimize-string-length](https://github.com/udhaya-444/Leetcode/tree/master/2825-minimize-string-length) |
 ## Dynamic Programming
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/udhaya-444/Leetcode/tree/master/0001-two-sum) |
 | [0139-word-break](https://github.com/udhaya-444/Leetcode/tree/master/0139-word-break) |
 | [0160-intersection-of-two-linked-lists](https://github.com/udhaya-444/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [1904-second-largest-digit-in-a-string](https://github.com/udhaya-444/Leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 | [2442-number-of-arithmetic-triplets](https://github.com/udhaya-444/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2825-minimize-string-length](https://github.com/udhaya-444/Leetcode/tree/master/2825-minimize-string-length) |
 ## Enumeration
